@@ -1,9 +1,6 @@
 name: Daily AI Enablement Radar
 
 on:
-  push:
-    branches: [main]
-    paths: [".github/first-run"]
   schedule:
     - cron: "47 14 * * *"
   workflow_dispatch:
