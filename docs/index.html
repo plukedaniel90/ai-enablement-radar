@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A source-grounded radar translating AI changes into practical enablement actions.">
+  <title>AI Enablement Radar</title>
+  <style>
+    :root{--ink:#10233f;--muted:#607089;--paper:#f5f7fb;--card:#fff;--line:#dce3ed;--blue:#2563eb;--teal:#0f766e}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 Inter,system-ui,sans-serif}
+    header{background:linear-gradient(130deg,#071a35,#123e67 60%,#0f766e);color:#fff;padding:64px 20px}
+    .wrap{max-width:1100px;margin:auto}.eyebrow{text-transform:uppercase;letter-spacing:.16em;font-size:.78rem;color:#8ee9dd}
+    h1{font-size:clamp(2.2rem,6vw,4.7rem);line-height:1;margin:.25em 0}.lead{max-width:760px;font-size:1.15rem;color:#dce8f6}
+    main{padding:34px 20px 70px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:-56px}
+    .stat,.signal{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 12px 36px #10233f12}
+    .num{font-size:2rem;font-weight:800}.label{color:var(--muted)}
+    .section-head{display:flex;justify-content:space-between;align-items:end;margin:42px 0 16px}
+    .section-head h2{margin:0;font-size:1.65rem}.updated{color:var(--muted);font-size:.9rem}
+    #signals{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}.signal h3{margin:.35rem 0}.signal a{color:var(--ink);text-decoration:none}
+    .meta{display:flex;gap:7px;flex-wrap:wrap}.pill{background:#e9f0ff;color:#1d4ed8;border-radius:999px;padding:4px 9px;font-size:.78rem}
+    .response{border-left:3px solid var(--teal);padding-left:12px}.empty{grid-column:1/-1;color:var(--muted)}
+    footer{border-top:1px solid var(--line);padding:28px 20px;color:var(--muted)}footer a{color:var(--blue)}
+    @media(max-width:700px){.stats,#signals{grid-template-columns:1fr}.stats{margin-top:-35px}header{padding-top:44px}}
+  </style>
+</head>
+<body>
+<header><div class="wrap"><div class="eyebrow">Open intelligence for enterprise adoption</div><h1>AI Enablement Radar</h1><p class="lead">Tracking consequential AI and enterprise-technology changes—and translating them into practical learning, change, and adoption actions.</p></div></header>
+<main class="wrap">
+  <section class="stats">
+    <div class="stat"><div class="num" id="signalCount">—</div><div class="label">Tracked signals</div></div>
+    <div class="stat"><div class="num" id="sourceCount">—</div><div class="label">Official sources</div></div>
+    <div class="stat"><div class="num" id="healthyCount">—</div><div class="label">Sources reachable</div></div>
+  </section>
+  <div class="section-head"><h2>Latest signals</h2><div class="updated" id="updated"></div></div>
+  <section id="signals"><div class="empty">Loading the radar…</div></section>
+</main>
+<footer><div class="wrap">Maintained by Luke Daniel Praneeth Kumar · <a href="https://github.com/plukedaniel90/ai-enablement-radar">View methodology and source</a></div></footer>
+<script>
+const safe = value => String(value == null ? "" : value).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
+Promise.all([fetch("data/signals.json").then(r=>r.json()),fetch("data/source-health.json").then(r=>r.json())]).then(([signals,health])=>{
+  const sources=Object.values(health.sources||{});
+  document.querySelector("#signalCount").textContent=signals.length;
+  document.querySelector("#sourceCount").textContent=sources.length;
+  document.querySelector("#healthyCount").textContent=sources.filter(s=>s.status==="ok").length;
+  document.querySelector("#updated").textContent=health.date ? "Last checked " + health.date : "";
+  const box=document.querySelector("#signals");
+  if(!signals.length){box.innerHTML='<div class="empty">The first scheduled scan has not published a material signal yet. The monitoring ledger remains active.</div>';return}
+  box.innerHTML=signals.slice(0,12).map(function(s){
+    return '<article class="signal"><div class="meta"><span class="pill">'+safe(s.domain)+'</span><span class="pill">'+safe(s.adoption_risk)+' risk</span></div><h3><a href="'+safe(s.url)+'" rel="noopener">'+safe(s.title)+'</a></h3><p class="label">'+safe(s.source)+' · '+safe(s.published_at).slice(0,10)+'</p><p>'+safe(s.summary)+'</p><p class="response"><strong>Enablement response:</strong> '+safe(s.recommended_response)+'</p></article>';
+  }).join("");
+}).catch(()=>{document.querySelector("#signals").innerHTML='<div class="empty">Radar data is temporarily unavailable.</div>'});
+</script>
+</body>
+</html>
