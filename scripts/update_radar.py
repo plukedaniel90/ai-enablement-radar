@@ -40,7 +40,9 @@ def clean(value: str) -> str:
 
 def classify(text: str) -> tuple[str, int]:
     lowered = text.lower()
-    scores = {category: sum(1 for term in terms if term in lowered) for category, terms in KEYWORDS.items()}
+    def matches(term: str) -> bool:
+        return bool(re.search(rf"\\b{re.escape(term)}\\b", lowered)) if len(term) <= 3 else term in lowered
+    scores = {category: sum(1 for term in terms if matches(term)) for category, terms in KEYWORDS.items()}
     category = max(scores, key=scores.get)
     return category, scores[category]
 
@@ -135,7 +137,7 @@ def main() -> None:
 
     for source in config["sources"]:
         feed = feedparser.parse(source["url"], request_headers={"User-Agent": "AI-Enablement-Radar/1.0"})
-        status = "ok" if (not getattr(feed, "bozo", False) or feed.entries) else "error"
+        status = "ok" if feed.entries else "error"
         health[source["id"]] = {
             "name": source["name"], "url": source["url"], "status": status,
             "items_read": len(feed.entries), "checked_at": checked_at,
