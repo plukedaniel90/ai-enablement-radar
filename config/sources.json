@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "id": "openai-news",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "domain": "AI platforms"
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "domain": "AI platforms"
+    },
+    {
+      "id": "microsoft-ai",
+      "name": "Microsoft AI Blog",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "domain": "Productivity"
+    },
+    {
+      "id": "salesforce-news",
+      "name": "Salesforce News",
+      "url": "https://www.salesforce.com/news/feed/",
+      "domain": "CRM"
+    },
+    {
+      "id": "github-changelog",
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/feed/",
+      "domain": "Developer productivity"
+    }
+  ]
+}
