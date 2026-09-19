@@ -1,0 +1,48 @@
+name: Daily AI Enablement Radar
+
+on:
+  schedule:
+    - cron: "47 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build daily radar
+        run: python scripts/update_radar.py
+
+      - name: Validate generated data
+        run: python scripts/validate.py
+
+      - name: Commit monitoring record
+        run: |
+          git config user.name "Luke Daniel Praneeth Kumar"
+          git config user.email "plukedaniel@gmail.com"
+          git add daily-signals data docs/data weekly-digests monthly-trends
+          if git diff --cached --quiet; then
+            echo "No repository change detected."
+            exit 0
+          fi
+          git commit -m "radar: daily source check $(date -u +%F)"
+          git push
