@@ -37,7 +37,7 @@
 <footer><div class="wrap">Maintained by Luke Daniel Praneeth Kumar · <a href="https://github.com/plukedaniel90/ai-enablement-radar">View methodology and source</a></div></footer>
 <script>
 const safe = value => String(value == null ? "" : value).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
-Promise.all([fetch("data/signals.json").then(r=>r.json()),fetch("data/source-health.json").then(r=>r.json())]).then(([signals,health])=>{
+Promise.all([fetch("data/signals.json",{cache:"no-store"}).then(r=>r.json()),fetch("data/source-health.json",{cache:"no-store"}).then(r=>r.json())]).then(([signals,health])=>{
   const sources=Object.values(health.sources||{});
   document.querySelector("#signalCount").textContent=signals.length;
   document.querySelector("#sourceCount").textContent=sources.length;
