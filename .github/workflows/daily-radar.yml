@@ -38,7 +38,7 @@ jobs:
       - name: Commit monitoring record
         run: |
           git config user.name "Luke Daniel Praneeth Kumar"
-          git config user.email "plukedaniel@gmail.com"
+          git config user.email "70698783+plukedaniel90@users.noreply.github.com"
           git add daily-signals data docs/data weekly-digests monthly-trends
           if git diff --cached --quiet; then
             echo "No repository change detected."
