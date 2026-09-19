@@ -1,0 +1,37 @@
+name: Field note
+description: Add a human observation about an AI or enterprise-technology change
+title: "[Field note] "
+labels: ["field-note"]
+body:
+  - type: textarea
+    id: observation
+    attributes:
+      label: What changed?
+      description: Describe the observed change in your own words.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Primary source
+      placeholder: https://
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Most affected audience
+      options:
+        - All employees
+        - People managers
+        - Commercial teams
+        - Learning and enablement teams
+        - Technical teams
+        - Administrators and governance teams
+    validations:
+      required: true
+  - type: textarea
+    id: implication
+    attributes:
+      label: Enablement implication
+      description: What should people understand, practise, or do differently?
+    validations:
+      required: true
