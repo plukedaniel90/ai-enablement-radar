@@ -1,1 +1,40 @@
-{}
+{
+  "date": "2026-09-20",
+  "sources": {
+    "openai-news": {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "status": "ok",
+      "items_read": 1210,
+      "checked_at": "2026-09-20T00:59:03+05:30"
+    },
+    "google-ai": {
+      "name": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "status": "ok",
+      "items_read": 20,
+      "checked_at": "2026-09-20T00:59:03+05:30"
+    },
+    "microsoft-ai": {
+      "name": "Microsoft AI Blog",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "status": "ok",
+      "items_read": 0,
+      "checked_at": "2026-09-20T00:59:03+05:30"
+    },
+    "salesforce-news": {
+      "name": "Salesforce News",
+      "url": "https://www.salesforce.com/news/feed/",
+      "status": "ok",
+      "items_read": 10,
+      "checked_at": "2026-09-20T00:59:03+05:30"
+    },
+    "github-changelog": {
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/feed/",
+      "status": "ok",
+      "items_read": 10,
+      "checked_at": "2026-09-20T00:59:03+05:30"
+    }
+  }
+}
