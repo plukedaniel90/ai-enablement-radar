@@ -2,9 +2,10 @@ name: Daily AI Enablement Radar
 
 on:
   schedule:
-    # Run during the Indian afternoon, leaving a wide buffer before UTC midnight.
-    # GitHub may delay scheduled workflows during busy periods.
-    - cron: "17 10 * * *"
+    # Two real monitoring runs provide redundancy against delayed or skipped schedules.
+    # Times are 10:47 AM and 5:47 PM IST, both safely before UTC midnight.
+    - cron: "17 5 * * *"
+    - cron: "17 12 * * *"
   workflow_dispatch:
 
 permissions:
