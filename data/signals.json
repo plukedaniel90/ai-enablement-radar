@@ -1,5 +1,21 @@
 [
   {
+    "id": "4ab26bbebf2d7538",
+    "title": "Claude Sonnet 5.5 in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-09-28T18:03:57+00:00",
+    "detected_on": "2026-09-29",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early… The post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "79490a65535d9a64",
     "title": "Enterprise managed settings in-product validator",
     "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
