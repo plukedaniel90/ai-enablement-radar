@@ -1,5 +1,37 @@
 [
   {
+    "id": "10517044d0a1f3bf",
+    "title": "GPT-6.1 Sol in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-09-29T17:02:27+00:00",
+    "detected_on": "2026-09-29",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "b624d9f643d9db26",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-09-29T10:00:00+00:00",
+    "detected_on": "2026-09-29",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "2a54cdb20fe59023",
     "title": "Towards safety cases for frontier AI training",
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
