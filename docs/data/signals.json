@@ -1,5 +1,37 @@
 [
   {
+    "id": "cc7f5ff8a5c6907a",
+    "title": "Salesforce Signs Definitive Agreement to Acquire Listen Labs",
+    "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-09-29T20:00:00+00:00",
+    "detected_on": "2026-09-30",
+    "domain": "CRM",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform. Listen Labs’s AI agents design studies, conduct in-depth research, and synthesize insights, automating the lifecycle of connecting with customers and analyzing their feedback. Listen Labs streamlines this process from months […]",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "d8691239af47ef31",
+    "title": "Repository custom runner settings for Dependabot",
+    "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-09-29T19:10:00+00:00",
+    "detected_on": "2026-09-30",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "10517044d0a1f3bf",
     "title": "GPT-6.1 Sol in GitHub Copilot",
     "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
