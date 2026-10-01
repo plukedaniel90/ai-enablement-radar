@@ -1,5 +1,21 @@
 [
   {
+    "id": "da1d101d70ae5d1c",
+    "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
+    "url": "https://www.salesforce.com/news/linked-content/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-09-30T17:00:06+00:00",
+    "detected_on": "2026-10-01",
+    "domain": "AI platforms",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "",
+    "automation": "rule-generated"
+  },
+  {
     "id": "cba97a2bd86e7634",
     "title": "GitHub Advanced Security trials for GitHub Team",
     "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
