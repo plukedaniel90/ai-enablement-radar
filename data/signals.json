@@ -1,5 +1,37 @@
 [
   {
+    "id": "244675f081c89a7a",
+    "title": "GitHub Copilot can now interact with desktop apps with computer use",
+    "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-01T19:11:26+00:00",
+    "detected_on": "2026-10-02",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "d176821b7fed3f82",
+    "title": "GitHub Copilot in VS Code, September 2026 releases",
+    "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-01T19:09:10+00:00",
+    "detected_on": "2026-10-02",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "41ed16b355df48fb",
     "title": "Actions retention now covers checks, runs, and statuses",
     "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
@@ -13,6 +45,22 @@
     "adoption_risk": "low",
     "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
     "summary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are… The post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "174516578a730c1f",
+    "title": "Dynamic workflows in Copilot CLI and the Copilot app",
+    "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-01T16:30:10+00:00",
+    "detected_on": "2026-10-02",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and… The post Dynamic workflows in Copilot CLI and the Copilot app appeared first on The GitHub Blog .",
     "automation": "rule-generated"
   },
   {
