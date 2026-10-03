@@ -1,5 +1,37 @@
 [
   {
+    "id": "b51c93a9fc3e726e",
+    "title": "Copilot code review: API support and new default effort level",
+    "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-02T19:13:50+00:00",
+    "detected_on": "2026-10-03",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default… The post Copilot code review: API support and new default effort level appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "e71ae90584bb71b0",
+    "title": "Selected models in GitHub Copilot deprecated",
+    "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-02T18:24:19+00:00",
+    "detected_on": "2026-10-03",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model… The post Selected models in GitHub Copilot deprecated appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "7084301c15d12dd4",
     "title": "Salesforce’s Agentic CX Vision: 8 Dreamforce Announcements CX Leaders Need to Act On",
     "url": "https://www.salesforce.com/news/linked-content/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on/",
