@@ -1,5 +1,21 @@
 [
   {
+    "id": "e6731d953aed914f",
+    "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+    "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-06T23:43:00+00:00",
+    "detected_on": "2026-10-07",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "ef1dcc0bec3a1763",
     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "url": "https://openai.com/index/atlassian-partnership",
@@ -29,6 +45,38 @@
     "adoption_risk": "medium",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "Salesforce Principal Architect of Ethical AI Practice Kathy Baxter explains how pairing a probabilistic model with deterministic logic gives agents the ability to take action — without giving up the guardrails.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "b18d6b5969c23d8b",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-06T12:00:00+00:00",
+    "detected_on": "2026-10-07",
+    "domain": "Workflow",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "cee54f4ad3ad2e70",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-06T12:00:00+00:00",
+    "detected_on": "2026-10-07",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
     "automation": "rule-generated"
   },
   {
