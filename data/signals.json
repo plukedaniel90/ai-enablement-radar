@@ -1,5 +1,21 @@
 [
   {
+    "id": "098875adf8dd4d63",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "url": "https://openai.com/index/oracle",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-08T16:00:00+00:00",
+    "detected_on": "2026-10-09",
+    "domain": "Workflow",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "3e8b4b5a118dd9d8",
     "title": "Claude Haiku 5.5 in GitHub Copilot",
     "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
