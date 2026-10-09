@@ -1,5 +1,21 @@
 [
   {
+    "id": "85303440cdf2ce3f",
+    "title": "Triage role users or higher can now archive pull requests",
+    "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-08T19:01:42+00:00",
+    "detected_on": "2026-10-09",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "Users with the triage role or higher in a repository can now archive and unarchive pull requests. Previously, archiving was limited to repository administrators, requiring trusted triagers to hand routine… The post Triage role users or higher can now archive pull requests appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "098875adf8dd4d63",
     "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
     "url": "https://openai.com/index/oracle",
