@@ -1,5 +1,21 @@
 [
   {
+    "id": "6180708ccace2aa8",
+    "title": "Salesforce Signs Definitive Agreement to Acquire Loops",
+    "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-10-12T12:00:00+00:00",
+    "detected_on": "2026-10-12",
+    "domain": "AI platforms",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Loops, an AI-powered analytics platform that continuously monitors business performance, explains why key metrics change, and surfaces opportunities to improve by leveraging machine learning models. Tableau is helping customers move from the data driven enterprise to the agentic analytics enterprise. […]",
+    "automation": "rule-generated"
+  },
+  {
     "id": "6c7e160b784f1a5b",
     "title": "New controls and chat improvements in Copilot for JetBrains",
     "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
