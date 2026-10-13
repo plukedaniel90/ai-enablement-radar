@@ -1,5 +1,37 @@
 [
   {
+    "id": "85cc482147eac2fe",
+    "title": "Code scanning AI Scan metrics in security overview",
+    "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-13T12:03:17+00:00",
+    "detected_on": "2026-10-13",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "68defb6be2d80630",
+    "title": "Client telemetry user attribution and configurable capture",
+    "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-12T22:38:00+00:00",
+    "detected_on": "2026-10-13",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "6180708ccace2aa8",
     "title": "Salesforce Signs Definitive Agreement to Acquire Loops",
     "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
