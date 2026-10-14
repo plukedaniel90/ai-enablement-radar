@@ -1,5 +1,21 @@
 [
   {
+    "id": "b7f80a31b0c90a20",
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "detected_on": "2026-10-14",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "f03e52ba378e2765",
     "title": "Gemini 4 Argon in GitHub Copilot",
     "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
