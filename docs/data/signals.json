@@ -1,5 +1,37 @@
 [
   {
+    "id": "5b7ef145ef5844b8",
+    "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
+    "url": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-10-15T07:00:00+00:00",
+    "detected_on": "2026-10-15",
+    "domain": "AI platforms",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Club unifies over 4.6 million fan accounts across 10+ systems, with new AI agent Ask Spurs achieving an 86% engagement rate. Agentic transformation spans football, stadium events and commercial operations, while supporting community programmes to improve digital skills and career pathways for local young people. LONDON, UK — 15 OCTOBER 2026 — Salesforce (NYSE: CRM), […]",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "3174394b1e271be2",
+    "title": "HydraFusion updates and new Max option",
+    "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-14T20:01:35+00:00",
+    "detected_on": "2026-10-15",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot… The post HydraFusion updates and new Max option appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "c176a008ce1eb60e",
     "title": "GitHub Actions workflow lockfiles in public preview",
     "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
@@ -45,6 +77,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "ee9b352f8fc9ea24",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-14T07:00:00+00:00",
+    "detected_on": "2026-10-15",
+    "domain": "Governance",
+    "audience": "Administrators and transformation leaders",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
     "automation": "rule-generated"
   },
   {
