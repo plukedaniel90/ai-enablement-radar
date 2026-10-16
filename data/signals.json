@@ -1,5 +1,37 @@
 [
   {
+    "id": "cd7add3e72579142",
+    "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+    "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-16T02:16:35+00:00",
+    "detected_on": "2026-10-16",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating… The post Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "7cb51697c8fd01a8",
+    "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+    "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-15T19:35:13+00:00",
+    "detected_on": "2026-10-16",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in mid-November appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "ddd1c9a379a37d99",
     "title": "Missed a lecture? This AI agent at Bar-Ilan University helps students catch up",
     "url": "https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/",
