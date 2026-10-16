@@ -1,5 +1,21 @@
 [
   {
+    "id": "48ba0e5a38f42982",
+    "title": "Open source license compliance generally available",
+    "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-16T14:00:32+00:00",
+    "detected_on": "2026-10-16",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "cd7add3e72579142",
     "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
     "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
