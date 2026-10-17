@@ -1,5 +1,21 @@
 [
   {
+    "id": "ad0eae3aaca46e75",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-16T19:00:00+00:00",
+    "detected_on": "2026-10-17",
+    "domain": "Governance",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "48ba0e5a38f42982",
     "title": "Open source license compliance generally available",
     "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
@@ -29,6 +45,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating… The post Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "6e0ca4513ff393c7",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-16T00:00:00+00:00",
+    "detected_on": "2026-10-17",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "automation": "rule-generated"
   },
   {
