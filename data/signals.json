@@ -1,5 +1,21 @@
 [
   {
+    "id": "f29cd5aaa0e4fa4c",
+    "title": "Salesforce Accelerates European AI Leadership with $1 Billion Investment in Spain",
+    "url": "https://www.salesforce.com/news/press-releases/2026/10/19/1-billion-ai-leadership-investment-spain/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-10-19T11:00:00+00:00",
+    "detected_on": "2026-10-20",
+    "domain": "CRM",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "Madrid named EMEA South hub as Salesforce expands office presence, customer innovation, and AI workforce development across the region. MADRID — October 19, 2026 — Salesforce, the #1 AI CRM, today unveiled plans to invest $1 billion in Spain over the next five years, cementing the country’s role as the growth engine for Salesforce’s EMEA […]",
+    "automation": "rule-generated"
+  },
+  {
     "id": "ad0eae3aaca46e75",
     "title": "How Itaú is building generative AI for its entire customer base",
     "url": "https://openai.com/index/itau-generative-ai",
