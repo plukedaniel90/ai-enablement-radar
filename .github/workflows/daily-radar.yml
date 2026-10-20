@@ -27,6 +27,9 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          # Scheduled runs may wait while main advances.
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -47,14 +50,28 @@ jobs:
         run: |
           git config user.name "Luke Daniel Praneeth Kumar"
           git config user.email "70698783+plukedaniel90@users.noreply.github.com"
-          git add daily-signals data docs/data weekly-digests monthly-trends
-          if git diff --cached --quiet; then
-            echo "No repository change detected."
-            exit 0
-          fi
           REPORT_DATE=$(TZ=Asia/Kolkata date +%F)
-          git commit -m "radar: daily source check ${REPORT_DATE}"
-          git push
+          for attempt in 1 2 3; do
+            git add daily-signals data docs/data weekly-digests monthly-trends
+            if git diff --cached --quiet; then
+              echo "No repository change detected."
+              exit 0
+            fi
+            git commit -m "radar: daily source check ${REPORT_DATE}"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "::error::Could not save the monitoring record after three attempts."
+              exit 1
+            fi
+            # This is a disposable runner: rebuild on the latest data instead of
+            # merging generated JSON or overwriting concurrent repository changes.
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/update_radar.py --date "$REPORT_DATE"
+            python scripts/validate.py
+          done
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
