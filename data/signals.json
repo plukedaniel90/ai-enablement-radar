@@ -1,5 +1,21 @@
 [
   {
+    "id": "def33c709c3710a8",
+    "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
+    "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-10-20T12:00:00+00:00",
+    "detected_on": "2026-10-20",
+    "domain": "CRM",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "SAN FRANCISCO & NEW YORK — Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has entered into a definitive agreement to acquire Braze (NASDAQ: BRZE), a leading customer engagement platform, for approximately $5.66 billion in enterprise value. Under the terms of the agreement, holders of Braze Class A common stock will receive […]",
+    "automation": "rule-generated"
+  },
+  {
     "id": "2cc309c0410e494c",
     "title": "Copilot model policy API for enterprise, orgs, and teams",
     "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
