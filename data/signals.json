@@ -16,6 +16,38 @@
     "automation": "rule-generated"
   },
   {
+    "id": "f421a9d86eec9c25",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-20T10:00:00+00:00",
+    "detected_on": "2026-10-21",
+    "domain": "Workflow",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "4141aa29e76ffedd",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-20T07:00:00+00:00",
+    "detected_on": "2026-10-21",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "2cc309c0410e494c",
     "title": "Copilot model policy API for enterprise, orgs, and teams",
     "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
