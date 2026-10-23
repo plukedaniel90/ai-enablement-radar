@@ -1,5 +1,21 @@
 [
   {
+    "id": "138c18dea9d97011",
+    "title": "Enterprise installations for GitHub Apps generally available",
+    "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-23T15:03:30+00:00",
+    "detected_on": "2026-10-23",
+    "domain": "Workflow",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
+    "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "e38341b2086771b6",
     "title": "GitHub Copilot in Visual Studio — September update",
     "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
