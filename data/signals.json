@@ -1,5 +1,37 @@
 [
   {
+    "id": "79c4e5ba7e77115e",
+    "title": "Usage metrics API adds usage from tools like OpenCode",
+    "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-23T23:42:03+00:00",
+    "detected_on": "2026-10-24",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "1a5a6044ff5c8b72",
+    "title": "Turn notifications into code with GitHub Copilot in Teams",
+    "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-23T21:29:58+00:00",
+    "detected_on": "2026-10-24",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group… The post Turn notifications into code with GitHub Copilot in Teams appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "138c18dea9d97011",
     "title": "Enterprise installations for GitHub Apps generally available",
     "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
@@ -13,6 +45,22 @@
     "adoption_risk": "low",
     "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
     "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "8c34907eb8cbc8f0",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-23T10:00:00+00:00",
+    "detected_on": "2026-10-24",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
     "automation": "rule-generated"
   },
   {
