@@ -1,5 +1,37 @@
 [
   {
+    "id": "770aa25f0b44c609",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-28T09:30:00+00:00",
+    "detected_on": "2026-10-28",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "dd8cc7c0b0c0dc6f",
+    "title": "GitHub Copilot supports server-to-server authentication",
+    "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-27T21:36:55+00:00",
+    "detected_on": "2026-10-28",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on… The post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "a6ff16f92260bdc6",
     "title": "New Research: Work Gets Trapped in Single-Player AI. Executives Are Ready for Multiplayer",
     "url": "https://www.salesforce.com/news/stories/work-stalls-isolated-ai-tools/",
@@ -13,6 +45,22 @@
     "adoption_risk": "low",
     "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
     "summary": "Key Takeaways As more and more businesses rely on AI, workers are experiencing a bottleneck: interface isolation. According to a recent Salesforce survey of 250 U.S. executives, 68% of respondents see AI insights go unshared, 66% say people unknowingly use AI to solve the same problem as their colleagues, and 59% observe work stall because […]",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "41f41fc19ee97ff5",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-27T15:00:00+00:00",
+    "detected_on": "2026-10-28",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
     "automation": "rule-generated"
   },
   {
@@ -45,6 +93,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "eedfb747f9319a88",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "detected_on": "2026-10-28",
+    "domain": "Governance",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
     "automation": "rule-generated"
   },
   {
