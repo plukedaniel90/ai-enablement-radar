@@ -96,6 +96,22 @@
     "automation": "rule-generated"
   },
   {
+    "id": "9efe126a74123e66",
+    "title": "GitHub Copilot in VS Code, Universe releases",
+    "url": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-28T15:33:00+00:00",
+    "detected_on": "2026-10-29",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "e10c124d96c610d4",
     "title": "Generate and edit images directly in Copilot",
     "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
@@ -157,6 +173,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "3665c8ae7247f6dc",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-10-28T13:15:00+00:00",
+    "detected_on": "2026-10-29",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
     "automation": "rule-generated"
   },
   {
