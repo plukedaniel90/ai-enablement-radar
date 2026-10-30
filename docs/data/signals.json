@@ -1,5 +1,21 @@
 [
   {
+    "id": "83d8c3a2edf163d9",
+    "title": "Salesforce Signs Definitive Agreement to Acquire Rune Technologies",
+    "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-10-29T20:00:00+00:00",
+    "detected_on": "2026-10-30",
+    "domain": "CRM",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "Salesforce, the #1 AI CRM, today announced it has signed a definitive agreement to acquire Rune Technologies, a leading edge-native technology provider building solutions to enable critical logistics and sustainment operations for the U.S. military and allied nations. Rune Technologies’s technology helps frontline teams forecast supply needs, optimize resources, and make mission-critical decisions – including […]",
+    "automation": "rule-generated"
+  },
+  {
     "id": "a1e8ff835d2111c5",
     "title": "An updated Model Spec for more capable and beneficial AI",
     "url": "https://openai.com/index/updated-model-spec",
@@ -157,6 +173,22 @@
     "adoption_risk": "medium",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "a895793d444284ac",
+    "title": "Repository plugin defaults and enterprise plugin controls generally available",
+    "url": "https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-10-28T15:33:00+00:00",
+    "detected_on": "2026-10-30",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for… The post Repository plugin defaults and enterprise plugin controls generally available appeared first on The GitHub Blog .",
     "automation": "rule-generated"
   },
   {
