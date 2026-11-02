@@ -1,5 +1,37 @@
 [
   {
+    "id": "7629390f31d91180",
+    "title": "Salesforce Signs Definitive Agreement to Acquire Cresta",
+    "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-11-02T21:00:00+00:00",
+    "detected_on": "2026-11-03",
+    "domain": "CRM",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "Combination unites advanced voice agents with the world’s #1 CRM, bringing together the customer, the conversation and the outcome",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "cc115e6247bdfc68",
+    "title": "Security risk assessments include repository protection status",
+    "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-11-02T15:47:21+00:00",
+    "detected_on": "2026-11-03",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "10d7cd47e0abc0db",
     "title": "Making it easier for websites to express AI training preferences",
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
