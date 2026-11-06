@@ -1,5 +1,37 @@
 [
   {
+    "id": "2fcfa75c86137d76",
+    "title": "Usage metrics API adds code review details and addressed rate",
+    "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-11-06T00:19:07+00:00",
+    "detected_on": "2026-11-06",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "d22e06521d157df3",
+    "title": "Usage metrics API flags telemetry and version gaps",
+    "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-11-06T00:08:31+00:00",
+    "detected_on": "2026-11-06",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "c26a8113e05cedf8",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -13,6 +45,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "c8a83cbc2d7e31e3",
+    "title": "Australian universities are creating AI-native graduates",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-05T17:00:00+00:00",
+    "detected_on": "2026-11-06",
+    "domain": "Learning",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Skill",
+    "adoption_risk": "low",
+    "recommended_response": "Convert the change into a short practice activity and manager reinforcement prompt.",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
     "automation": "rule-generated"
   },
   {
@@ -64,6 +112,22 @@
     "automation": "rule-generated"
   },
   {
+    "id": "99f4a721546ef1e3",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-05T08:00:00+00:00",
+    "detected_on": "2026-11-06",
+    "domain": "CRM",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "c4aea6fe06704fea",
     "title": "Setting a new standard for responsible AI infrastructure",
     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
@@ -77,6 +141,22 @@
     "adoption_risk": "high",
     "recommended_response": "Brief administrators and update guardrails before broad adoption.",
     "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "7882cc75c1475a78",
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "url": "https://openai.com/index/franklin-templeton",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-05T00:00:00+00:00",
+    "detected_on": "2026-11-06",
+    "domain": "Workflow",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Demonstrate the changed workflow, define success measures, and support first use.",
+    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
     "automation": "rule-generated"
   },
   {
