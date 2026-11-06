@@ -1,5 +1,37 @@
 [
   {
+    "id": "0a53607e15fe2c20",
+    "title": "Less Reasoning. More Doing. Meet Koa Decisions.",
+    "url": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-11-06T16:00:00+00:00",
+    "detected_on": "2026-11-07",
+    "domain": "AI platforms",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "The new version of Salesforce’s decision model handles single-step decisions in milliseconds.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "e22bbd490f218bd8",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-06T08:00:00+00:00",
+    "detected_on": "2026-11-07",
+    "domain": "CRM",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "2fcfa75c86137d76",
     "title": "Usage metrics API adds code review details and addressed rate",
     "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
@@ -29,6 +61,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "8ac2eff0f4871c87",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-06T00:00:00+00:00",
+    "detected_on": "2026-11-07",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
     "automation": "rule-generated"
   },
   {
