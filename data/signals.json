@@ -1,5 +1,37 @@
 [
   {
+    "id": "1317fe9654c6f222",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "Google AI",
+    "source_id": "google-ai",
+    "published_at": "2026-11-11T18:00:00+00:00",
+    "detected_on": "2026-11-12",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "3a63278102c1804f",
+    "title": "Salesforce Releases R&D Agents That Improve Its AI Models",
+    "url": "https://www.salesforce.com/news/stories/agents-that-improve-ai-models/",
+    "source": "Salesforce News",
+    "source_id": "salesforce-news",
+    "published_at": "2026-11-11T16:00:00+00:00",
+    "detected_on": "2026-11-12",
+    "domain": "AI platforms",
+    "audience": "Commercial and customer-facing teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "SFR-AutoR&D, a new self-improving system from Salesforce, trains and improves the embedding models in deployment-grade enterprise AI.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "16070bf57a994ecc",
     "title": "ChatGPT Plus for veterans and servicemembers",
     "url": "https://openai.com/index/chatgpt-plus-for-veterans",
