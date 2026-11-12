@@ -1,5 +1,21 @@
 [
   {
+    "id": "396dd77c09658bbf",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-12T09:30:00+00:00",
+    "detected_on": "2026-11-12",
+    "domain": "CRM",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Map the change to seller or customer workflows and test it with a pilot group.",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "1317fe9654c6f222",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
