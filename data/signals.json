@@ -1,5 +1,21 @@
 [
   {
+    "id": "ab146f2c87db6e21",
+    "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+    "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-11-13T20:40:05+00:00",
+    "detected_on": "2026-11-14",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "medium",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "df875207a3f8a1e3",
     "title": "GitHub Enterprise Server support in the GitHub Copilot app",
     "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
@@ -45,6 +61,22 @@
     "adoption_risk": "low",
     "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "77fd93a77ec18b83",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-13T08:00:00+00:00",
+    "detected_on": "2026-11-14",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
     "automation": "rule-generated"
   },
   {
