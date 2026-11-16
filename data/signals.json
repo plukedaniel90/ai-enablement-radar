@@ -1,5 +1,37 @@
 [
   {
+    "id": "b648170bd94de438",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-16T00:00:00+00:00",
+    "detected_on": "2026-11-16",
+    "domain": "Learning",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Skill",
+    "adoption_risk": "low",
+    "recommended_response": "Convert the change into a short practice activity and manager reinforcement prompt.",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "f6d65800d033bec4",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-15T22:00:01+00:00",
+    "detected_on": "2026-11-16",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "ab146f2c87db6e21",
     "title": "Upcoming deprecation of selected GitHub Copilot models in December",
     "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
