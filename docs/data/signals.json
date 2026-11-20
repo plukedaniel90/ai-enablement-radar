@@ -1,5 +1,37 @@
 [
   {
+    "id": "64930b3e6667de86",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-20T10:00:00+00:00",
+    "detected_on": "2026-11-21",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "automation": "rule-generated"
+  },
+  {
+    "id": "458d13c0f8b0c45a",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "detected_on": "2026-11-21",
+    "domain": "AI platforms",
+    "audience": "Knowledge workers and people managers",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "39fd531940dd182a",
     "title": "Enterprise Live Migrations from Azure DevOps generally available",
     "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
