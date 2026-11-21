@@ -1,5 +1,21 @@
 [
   {
+    "id": "25101d8eb9cfa57c",
+    "title": "Security advisory permissions are now generally available",
+    "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+    "source": "GitHub Changelog",
+    "source_id": "github-changelog",
+    "published_at": "2026-11-20T21:49:29+00:00",
+    "detected_on": "2026-11-21",
+    "domain": "Governance",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Governance",
+    "adoption_risk": "high",
+    "recommended_response": "Brief administrators and update guardrails before broad adoption.",
+    "summary": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give… The post Security advisory permissions are now generally available appeared first on The GitHub Blog .",
+    "automation": "rule-generated"
+  },
+  {
     "id": "64930b3e6667de86",
     "title": "Combatting adversarial distillation",
     "url": "https://openai.com/index/combatting-adversarial-distillation",
