@@ -64,6 +64,22 @@
     "automation": "rule-generated"
   },
   {
+    "id": "ca8edd5c1b50ede4",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "OpenAI News",
+    "source_id": "openai-news",
+    "published_at": "2026-11-24T00:00:00+00:00",
+    "detected_on": "2026-11-25",
+    "domain": "AI platforms",
+    "audience": "Developers and technical teams",
+    "enablement_lens": "Workflow adoption",
+    "adoption_risk": "low",
+    "recommended_response": "Create an awareness brief, role-based examples, and a controlled hands-on trial.",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "automation": "rule-generated"
+  },
+  {
     "id": "ef5e4ef849248c1b",
     "title": "Issue statuses and repository boards are in public preview",
     "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
